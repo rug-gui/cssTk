@@ -25,7 +25,6 @@
 - <sub> Andereoo/TkinterWeb </sub>
 - <sub> aivarannamaa/tkinterhtml </sub>
 
+License : Yet To Be Decided
 
-
-
-* = Yet To Be Added
+*= Yet To Be Added

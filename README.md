@@ -10,8 +10,6 @@
 - Gradient BG
 - Blur
 - Animations
-- 
-
 
 ### Usage Scenarios
 - Allows easy import of GTK 3 and GTK2 themes directly for your Tkinter/python app

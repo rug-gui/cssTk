@@ -18,6 +18,7 @@
 - Provide animations to any Tk widgets
 - Create a better and responsive UI
 - Use widgets or components support styled from Popular CSS Frameworks(Tailwind,Bootstrap,DaisyUi)
+- Convert CSS to Tcl
 
 ### Inspiration
 
